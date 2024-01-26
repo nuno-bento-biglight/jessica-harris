@@ -1,0 +1,10 @@
+1: http://clapat.ro/themes/canela/index.html
+2: http://clapat.ro/themes/canela/project01.html
+3: http://clapat.ro/themes/canela/project02.html
+4: http://clapat.ro/themes/canela/project03.html
+5: http://clapat.ro/themes/canela/project04.html
+6: http://clapat.ro/themes/canela/project05.html
+7: http://clapat.ro/themes/canela/project06.html
+8: http://clapat.ro/themes/canela/index-portfolio-grid.html
+9: http://clapat.ro/themes/canela/about.html
+10: http://clapat.ro/themes/canela/index-classic-menu.html
